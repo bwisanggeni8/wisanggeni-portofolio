@@ -1,9 +1,9 @@
 
-### Hi, I'm Bagus! :technologist::
+### Hi, I'm Gus! :technologist::
 
 ---
 
-Welcome to my github, here you can find all my data analytics projects. Have a look at my projects & feel free to reach out to me about it!
+Welcome to my github, here you can find all my projects. Have a look at my projects & feel free to reach out to me about it!
 
 ---
 
